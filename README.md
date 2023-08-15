@@ -1,0 +1,2 @@
+# Gnews
+this xml file
